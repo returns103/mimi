@@ -1,0 +1,36 @@
+{
+  "f0265103": {
+    "alpha": 0.5,
+    "edge" : {
+      "low_threshold": 50,
+      "ratio": 2,
+      "kernal": 3
+    },
+    "depth": {
+      "resolution": [1024, 768],
+      "fps": 30
+    },
+    "color": {
+      "resolution": [1280, 720],
+      "fps" : 30
+    },
+    "preset": "None"
+  },
+  "f0221610": {
+    "alpha": 0.5,
+    "edge" : {
+      "low_threshold": 15,
+      "ratio": 2,
+      "kernal": 5
+    },
+    "depth": {
+      "resolution": [1024, 768],
+      "fps": 30
+    },
+    "color": {
+      "resolution": [1280, 720],
+      "fps" : 30
+    },
+    "preset": "short"
+  }
+}
